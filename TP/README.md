@@ -46,4 +46,4 @@ Créer des alertes autour des métriques http_requests_total déjà exposées pa
 
 Exercice 3 : Rajouter des receivers sur alertmanager pour une équipe "dev" et une équipe "infra" --> Créer 2 alertes pour voir si node_exporter est down, si oui faire passer l'alertes dans les 2 receivers "dev" et "infra" et vérifier sur alertmanager
 
-**Envoyer votre dossier (code + dashboard exportés) à molinaromain04@gmail.com, vendredi minuit dernier délai**
+**Envoyer votre dossier (code + dashboard exportés) à molinaromain04@gmail.com, vendredi minuit dernier délai. Objet du mail = Nom + Prénom + TP Prometheus/Grafana**
