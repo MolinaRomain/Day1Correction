@@ -43,3 +43,5 @@ Créer des alertes autour des métriques http_requests_total déjà exposées pa
 
         AppErrorRate : déclenche si plus de 5 % de requêtes renvoient un code 5xx sur 5 min.
         AppTooFewRequests : déclenche si le nombre de requêtes total est inférieur à 1 req/s (soit 0-9 req/5 min) pendant 10 min.
+
+Exercice 3 : Rajouter des receivers sur alertmanager pour une équipe "dev" et une équipe "infra" --> Créer 2 alertes pour voir si node_exporter est down, si oui faire passer l'alertes dans les 2 receivers "dev" et "infra" et vérifier sur alertmanager
