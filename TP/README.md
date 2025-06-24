@@ -45,3 +45,5 @@ Créer des alertes autour des métriques http_requests_total déjà exposées pa
         AppTooFewRequests : déclenche si le nombre de requêtes total est inférieur à 1 req/s pendant 10 min.
 
 Exercice 3 : Rajouter des receivers sur alertmanager pour une équipe "dev" et une équipe "infra" --> Créer 2 alertes pour voir si node_exporter est down, si oui faire passer l'alertes dans les 2 receivers "dev" et "infra" et vérifier sur alertmanager
+
+**Envoyer votre dossier (code + dashboard exportés) à molinaromain04@gmail.com, vendredi minuit dernier délai**
