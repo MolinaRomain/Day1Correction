@@ -17,7 +17,7 @@ Créer un dashboard combinant des métriques système (node_exporter) et métriq
 
         Panel 2 – Charge CPU App :
 
-        – Affichez la métrique “fake CPU” de l’app (simulée toutes les 5 s).
+        – Affichez la métrique “simulated_cpu_percent” de l’app (simulée toutes les 5 s).
         – Option : changer le type de panel (ligne, gauge ou stat).
 
         Panel 3 – Taux de requêtes HTTP App pour 1min :
